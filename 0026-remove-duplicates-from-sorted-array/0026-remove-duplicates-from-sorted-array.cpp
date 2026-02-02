@@ -9,14 +9,11 @@ public:
             if(nums[i]!=nums[i-1]){
                 copy.push_back(nums[i]);
                 count++;
-            }
-
-            
+            }    
         }
         for(int i=0;i<count;i++){
             nums[i]=copy[i];
         }
-        return count;
-        
+        return count;   
     }
 };
