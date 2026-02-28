@@ -1,41 +1,4 @@
-🌟 LeetCode Submissions — Anjali Kumari
-
-A clean, aesthetic, developer-friendly collection of my LeetCode solutions.
-
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=FF66C4&center=true&vCenter=true&width=600&lines=Hello+Coder!+👋;Welcome+to+my+LeetCode+Solutions+Repo!;DSA+Practice+in+C++;Consistent+Progress+🚀" /> </p>
-🌸 About This Repository
-
-This repository contains all my LeetCode problem solutions, written in C++, with clean, easy-to-understand code and comments.
-
-✔ Helps me track my progress
-✔ Improves my problem-solving skills
-✔ Builds strong DSA fundamentals
-✔ Prepares me for future interviews
-
-🧠 Why This Repo Exists?
-
-Because consistency beats motivation!
-Every day I try to solve 1+ LeetCode problems and store:
-
-✔ Optimized C++ solutions
-
-✔ Different approaches
-
-✔ Edge case coverage
-
-✔ Clean explanations (if needed)
-
-
-
-Each folder contains:
-📌 C++ solution
-📌 Clean code
-📌 Explanation (if needed)
-
-🛠️ Tech Used
-Language	Platforms	Tools
-C++ ❤️	LeetCode	VS Code
-STL	GitHub	Git
+🌟7
 OOP	DSA Practice	Extensions
 📊 My LeetCode Progress
 <p align="center"> <img src="https://leetcard.jacoblin.cool/leetcode_break?theme=light&ext=heatmap" alt="LeetCode Stats" /> </p>
