@@ -48,3 +48,11 @@ public:
 
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0507-perfect-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0507-perfect-number/) | Easy |
+<!---LeetCode Topics End-->
