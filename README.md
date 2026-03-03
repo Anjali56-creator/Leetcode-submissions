@@ -55,4 +55,9 @@ public:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0507-perfect-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0507-perfect-number/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1486-xor-operation-in-an-array/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1486-xor-operation-in-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
