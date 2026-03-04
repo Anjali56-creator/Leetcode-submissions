@@ -60,4 +60,12 @@ public:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1486-xor-operation-in-an-array/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 <!---LeetCode Topics End-->
