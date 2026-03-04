@@ -55,6 +55,7 @@ public:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0507-perfect-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0507-perfect-number/) | Easy |
+| [1025-divisor-game](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1025-divisor-game/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -68,4 +69,16 @@ public:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1025-divisor-game/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1025-divisor-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
