@@ -81,4 +81,8 @@ public:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1025-divisor-game/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 <!---LeetCode Topics End-->
