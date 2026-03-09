@@ -69,6 +69,7 @@ public:
 | [0877-stone-game](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0877-stone-game/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3467-transform-array-by-parity](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,4 +108,12 @@ public:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1980-find-unique-binary-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1980-find-unique-binary-string/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3467-transform-array-by-parity](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3467-transform-array-by-parity/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3467-transform-array-by-parity](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3467-transform-array-by-parity/) | Easy |
 <!---LeetCode Topics End-->
