@@ -59,6 +59,7 @@ public:
 | [0877-stone-game](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1025-divisor-game/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,4 +117,8 @@ public:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3467-transform-array-by-parity](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3467-transform-array-by-parity/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 <!---LeetCode Topics End-->
