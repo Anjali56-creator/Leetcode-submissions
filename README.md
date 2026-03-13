@@ -61,6 +61,7 @@ public:
 | [1486-xor-operation-in-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
+| [3227-vowels-game-in-a-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,11 +87,13 @@ public:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1025-divisor-game/) | Easy |
+| [3227-vowels-game-in-a-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1025-divisor-game/) | Easy |
+| [3227-vowels-game-in-a-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +101,7 @@ public:
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3227-vowels-game-in-a-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
