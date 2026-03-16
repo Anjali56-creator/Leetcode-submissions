@@ -54,6 +54,7 @@ public:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0012-integer-to-roman/) | Medium |
 | [0050-powx-n](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0050-powx-n/) | Medium |
 | [0507-perfect-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0507-perfect-number/) | Easy |
 | [0877-stone-game](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0877-stone-game/) | Medium |
@@ -98,6 +99,7 @@ public:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0012-integer-to-roman/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0205-isomorphic-strings/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -111,6 +113,7 @@ public:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0012-integer-to-roman/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0205-isomorphic-strings/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
