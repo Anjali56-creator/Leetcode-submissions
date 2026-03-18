@@ -71,6 +71,7 @@ public:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0027-remove-element/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0877-stone-game](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0877-stone-game/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -142,6 +143,7 @@ public:
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0027-remove-element/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
