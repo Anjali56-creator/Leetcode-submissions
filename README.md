@@ -54,6 +54,7 @@ public:
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0012-integer-to-roman/) | Medium |
 | [0050-powx-n](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0050-powx-n/) | Medium |
 | [0507-perfect-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0507-perfect-number/) | Easy |
