@@ -77,6 +77,7 @@ public:
 | [0877-stone-game](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0877-stone-game/) | Medium |
 | [0994-rotting-oranges](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0994-rotting-oranges/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Matrix
@@ -156,4 +157,8 @@ public:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0994-rotting-oranges](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0994-rotting-oranges/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1732-find-the-highest-altitude/) | Easy |
 <!---LeetCode Topics End-->
