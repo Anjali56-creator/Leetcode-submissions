@@ -60,6 +60,7 @@ public:
 | [0507-perfect-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0507-perfect-number/) | Easy |
 | [0877-stone-game](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1025-divisor-game/) | Easy |
+| [1323-maximum-69-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1323-maximum-69-number/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
@@ -163,4 +164,8 @@ public:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1732-find-the-highest-altitude/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1323-maximum-69-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1323-maximum-69-number/) | Easy |
 <!---LeetCode Topics End-->
