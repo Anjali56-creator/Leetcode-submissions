@@ -82,6 +82,7 @@ public:
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2906-construct-product-matrix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -89,6 +90,7 @@ public:
 | [0994-rotting-oranges](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0994-rotting-oranges/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2906-construct-product-matrix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2906-construct-product-matrix/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +170,7 @@ public:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2906-construct-product-matrix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2906-construct-product-matrix/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
