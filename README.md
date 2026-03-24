@@ -81,6 +81,7 @@ public:
 | [1732-find-the-highest-altitude](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -134,6 +135,7 @@ public:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -152,10 +154,12 @@ public:
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0027-remove-element/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
