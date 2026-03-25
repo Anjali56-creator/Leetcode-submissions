@@ -115,6 +115,7 @@ public:
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0012-integer-to-roman/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0205-isomorphic-strings/) | Easy |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -178,6 +179,7 @@ public:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1323-maximum-69-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1323-maximum-69-number/) | Easy |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
