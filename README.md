@@ -64,6 +64,7 @@ public:
 | [1486-xor-operation-in-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
+| [2769-find-the-maximum-achievable-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
