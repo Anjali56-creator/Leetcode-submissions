@@ -66,6 +66,7 @@ public:
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -86,6 +87,7 @@ public:
 | [1980-find-unique-binary-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2906-construct-product-matrix/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Matrix
@@ -95,6 +97,7 @@ public:
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2906-construct-product-matrix/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -154,6 +157,7 @@ public:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
