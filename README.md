@@ -65,6 +65,7 @@ public:
 | [1688-count-of-matches-in-tournament](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
