@@ -1,19 +1,17 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        int f[26]={0};
-        if(s.size()!=t.size())
+      vector<int>counting(256,0);
+      for(int i=0;i<s.length();i++){
+        counting[s[i]]++;
+      }  
+      for(int i=0;i<t.length();i++){
+        counting[t[i]]--;
+      }
+      for(int i=0;i<256;i++){
+        if(counting[i]!=0)
         return false;
-        for(int i=0;i<s.size();i++){
-            f[s[i]-'a']++;
-        }
-        for(int i=0;i<t.size();i++){
-            f[t[i]-'a']--;
-        }
-        for(int i=0;i<26;i++){
-            if(f[i]!=0)
-            return false;
-        }
-        return true;
+      }
+      return true;
     }
 };
