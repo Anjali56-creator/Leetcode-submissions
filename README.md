@@ -90,6 +90,7 @@ public:
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2974-minimum-number-game](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2974-minimum-number-game/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -157,6 +158,7 @@ public:
 | [0242-valid-anagram](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2974-minimum-number-game](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2974-minimum-number-game/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -167,6 +169,7 @@ public:
 | ------- | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2974-minimum-number-game](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2974-minimum-number-game/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,4 +204,8 @@ public:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2974-minimum-number-game](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2974-minimum-number-game/) | Easy |
 <!---LeetCode Topics End-->
