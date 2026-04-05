@@ -8,7 +8,7 @@ public:
             if(moves[i]=='D')
             a--;
             if(moves[i]=='L')
-            B++;
+            b++;
             if(moves[i]=='R')
             b--;
         }
