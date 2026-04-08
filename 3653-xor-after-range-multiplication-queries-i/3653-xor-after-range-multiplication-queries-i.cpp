@@ -1,12 +1,10 @@
 class Solution {
 public:
-  int m=1e9+7;
     int xorAfterQueries(vector<int>& nums, vector<vector<int>>& queries) {
-      
-        for(auto &query:queries){
-            int l=query[0];
-            int r=query[1];
-            int k=query[2]; int v=query[3];
+       const int m=1e9+7;
+        for(auto &q:queries){
+            int l=q[0];
+            int r=q[1];int k=q[2]; int v=q[3];
         
        
         while(l<=r){
@@ -15,8 +13,8 @@ public:
         }
         }
         int result=0;
-        for(int &num:nums){
-            result^=num;
+        for(int &x:nums){
+            result^=x;
         }
         return result;
         
