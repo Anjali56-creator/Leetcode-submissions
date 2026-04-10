@@ -519,6 +519,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0344-reverse-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0344-reverse-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0657-robot-return-to-origin/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -543,4 +544,8 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
