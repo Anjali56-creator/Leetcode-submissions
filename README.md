@@ -540,6 +540,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | ------- | ------- |
 | [0015-3sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0015-3sum/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [2463-minimum-total-distance-traveled](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3668-restore-finishing-order/) | Easy |
 ## Divide and Conquer
@@ -555,6 +556,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0015-3sum/) | Medium |
+| [2463-minimum-total-distance-traveled](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -563,4 +565,8 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0441-arranging-coins](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0441-arranging-coins/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2463-minimum-total-distance-traveled](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 <!---LeetCode Topics End-->
