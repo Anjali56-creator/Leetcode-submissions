@@ -568,6 +568,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0029-divide-two-integers/) | Medium |
 | [0441-arranging-coins](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0441-arranging-coins/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
