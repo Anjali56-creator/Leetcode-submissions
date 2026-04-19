@@ -8,9 +8,9 @@ public:
             ans=max(ans,j-i);
             j++; 
             }
-            else {
+            else 
                 i++;
-            }
+            
         }
         return ans;
     }
