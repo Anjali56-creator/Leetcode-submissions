@@ -523,12 +523,14 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0290-word-pattern](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0344-reverse-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0657-robot-return-to-origin/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0657-robot-return-to-origin/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Hash Table
@@ -549,6 +551,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0015-3sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0015-3sum/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
