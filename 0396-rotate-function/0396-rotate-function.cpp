@@ -9,7 +9,7 @@ public:
         int ans=F;
           for(int k =1;k<n;k++){
             F = F+sum-n*nums[n - k];
-            ans = max(ans, F);
+            ans=max(ans, F);
         }
 
         return ans;
