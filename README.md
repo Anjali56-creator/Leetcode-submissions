@@ -579,6 +579,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0061-rotate-list/) | Medium |
 | [0189-rotate-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0189-rotate-array/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -658,11 +659,13 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0061-rotate-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -671,4 +674,8 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0048-rotate-image/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
