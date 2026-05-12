@@ -556,6 +556,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0048-rotate-image](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0189-rotate-array/) | Medium |
 | [0396-rotate-function](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0396-rotate-function/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1861-rotating-the-box/) | Medium |
@@ -594,6 +595,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0015-3sum/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -633,6 +635,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Depth-First Search
