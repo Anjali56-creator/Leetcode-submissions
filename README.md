@@ -545,6 +545,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0290-word-pattern](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0290-word-pattern/) | Easy |
 | [2540-minimum-common-value](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2615-sum-of-distances/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3668-restore-finishing-order/) | Easy |
 ## Sliding Window
@@ -575,6 +576,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [2540-minimum-common-value](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2615-sum-of-distances/) | Medium |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2942-find-words-containing-character/) | Easy |
@@ -646,6 +648,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0029-divide-two-integers/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
