@@ -528,6 +528,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2942-find-words-containing-character/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -547,6 +548,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [2615-sum-of-distances](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3668-restore-finishing-order/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -580,6 +582,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2942-find-words-containing-character/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3660-jump-game-ix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3660-jump-game-ix/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3668-restore-finishing-order/) | Easy |
@@ -727,4 +730,8 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 <!---LeetCode Topics End-->
