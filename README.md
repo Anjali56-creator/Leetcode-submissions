@@ -558,6 +558,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0015-3sum/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0048-rotate-image/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -632,6 +633,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0441-arranging-coins](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0441-arranging-coins/) | Easy |
