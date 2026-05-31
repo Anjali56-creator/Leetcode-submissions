@@ -579,6 +579,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2126-destroying-asteroids](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2540-minimum-common-value/) | Easy |
@@ -618,6 +619,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2126-destroying-asteroids](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Math
@@ -669,6 +671,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2126-destroying-asteroids](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2126-destroying-asteroids/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
