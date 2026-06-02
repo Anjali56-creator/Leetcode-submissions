@@ -598,6 +598,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [2942-find-words-containing-character](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3660-jump-game-ix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3660-jump-game-ix/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3668-restore-finishing-order/) | Easy |
@@ -621,6 +622,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1861-rotating-the-box/) | Medium |
 | [2540-minimum-common-value](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2540-minimum-common-value/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -632,6 +634,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -660,6 +663,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2540-minimum-common-value/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -686,6 +690,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
