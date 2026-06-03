@@ -570,6 +570,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0056-merge-intervals](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0118-pascals-triangle](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -674,6 +675,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0053-maximum-subarray/) | Medium |
+| [0085-maximal-rectangle](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0118-pascals-triangle](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0396-rotate-function](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0396-rotate-function/) | Medium |
@@ -750,12 +752,14 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0085-maximal-rectangle](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0085-maximal-rectangle/) | Hard |
 | [1861-rotating-the-box](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1861-rotating-the-box/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Number Theory
@@ -782,4 +786,5 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0085-maximal-rectangle/) | Hard |
 <!---LeetCode Topics End-->
