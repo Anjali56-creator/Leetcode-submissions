@@ -661,6 +661,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [2965-find-missing-and-repeated-values](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3516-find-closest-person](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3516-find-closest-person/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -686,6 +687,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [2463-minimum-total-distance-traveled](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3660-jump-game-ix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3660-jump-game-ix/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -782,6 +784,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
