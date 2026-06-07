@@ -549,6 +549,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0229-majority-element-ii/) | Medium |
 | [0290-word-pattern](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0290-word-pattern/) | Easy |
@@ -581,6 +582,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0085-maximal-rectangle](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0118-pascals-triangle](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0169-majority-element](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0169-majority-element/) | Easy |
@@ -736,6 +738,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0547-number-of-provinces](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0547-number-of-provinces/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
