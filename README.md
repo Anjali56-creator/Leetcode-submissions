@@ -794,6 +794,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0020-valid-parentheses](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0085-maximal-rectangle/) | Hard |
+| [0232-implement-queue-using-stacks](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Number Theory
@@ -826,5 +827,10 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
