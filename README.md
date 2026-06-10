@@ -775,6 +775,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0061-rotate-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0061-rotate-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
