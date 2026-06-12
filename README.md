@@ -551,6 +551,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0073-set-matrix-zeroes](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0229-majority-element-ii/) | Medium |
 | [0290-word-pattern](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0290-word-pattern/) | Easy |
@@ -644,6 +645,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0031-next-permutation](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0189-rotate-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -776,6 +778,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
