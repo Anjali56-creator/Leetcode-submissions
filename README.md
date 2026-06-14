@@ -598,6 +598,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0239-sliding-window-maximum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0396-rotate-function](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0396-rotate-function/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
