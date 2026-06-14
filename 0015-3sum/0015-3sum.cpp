@@ -1,25 +1,30 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        vector<vector<int>> ans; 
-        sort(nums.begin(), nums.end());
-        for(int i=0; i<nums.size();i++) {
-            if(i>0&&nums[i]==nums[i-1]) 
-            continue;
-            int l= i+1, r=nums.size()-1;
-            while(l<r) {
-                int sum = nums[i]+nums[l]+nums[r];
+        sort(nums.begin(),nums.end());
+        int n=nums.size();
+        vector<vector<int>> temp;
+        for(int i=0;i<n;i++){
+            if(i>0 && nums[i]==nums[i-1]) continue;
+            int start=i+1,end=n-1;
+            while(start<end){
+                int sum=nums[i]+nums[start]+nums[end];
                 if(sum==0){
-                    ans.push_back({nums[i], nums[l], nums[r]});
-                    while(l<r&&nums[l]==nums[l+1]) l++;
-                    while(l<r&&nums[r]==nums[r-1]) r--;
-                    l++; r--;
+                temp.push_back({nums[i],nums[start],nums[end]});
+                 start++;
+                 end--;
+                 while(start < end && nums[start] == nums[start - 1])
+                        start++;
+
+                    while(start < end && nums[end] == nums[end + 1])
+                        end--;
                 }
-                else if(sum<0) 
-                l++;
-                else r--;
+                else if(sum>0)
+                end--;
+                else
+                start++;
             }
         }
-        return ans;
+        return temp;
     }
 };
