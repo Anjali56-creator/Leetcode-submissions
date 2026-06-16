@@ -532,6 +532,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [2942-find-words-containing-character](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -541,6 +542,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [2073-time-needed-to-buy-tickets](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3838-weighted-word-mapping/) | Easy |
