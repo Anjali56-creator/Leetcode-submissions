@@ -691,6 +691,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0396-rotate-function](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0396-rotate-function/) | Medium |
 | [0441-arranging-coins](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0441-arranging-coins/) | Easy |
 | [0788-rotated-digits](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0788-rotated-digits/) | Medium |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2652-sum-multiples](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2652-sum-multiples/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
