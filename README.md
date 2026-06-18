@@ -552,6 +552,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0001-two-sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0013-roman-to-integer/) | Easy |
+| [0037-sudoku-solver](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0037-sudoku-solver/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -584,6 +585,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0018-4sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0037-sudoku-solver](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0053-maximum-subarray/) | Medium |
@@ -812,6 +814,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -835,6 +838,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0051-n-queens/) | Hard |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Combinatorics
