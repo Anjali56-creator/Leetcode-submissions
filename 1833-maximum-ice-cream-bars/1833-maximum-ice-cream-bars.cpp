@@ -10,7 +10,6 @@ public:
             else
             break;
         }
-
         return c;
     }
 };
