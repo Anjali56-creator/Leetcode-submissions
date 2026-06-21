@@ -765,10 +765,12 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0547-number-of-provinces](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0547-number-of-provinces/) | Medium |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0547-number-of-provinces/) | Medium |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -897,6 +899,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -904,9 +907,11 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 <!---LeetCode Topics End-->
