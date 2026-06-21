@@ -612,6 +612,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0540-single-element-in-a-sorted-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -845,6 +846,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0232-implement-queue-using-stacks](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -874,6 +876,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0085-maximal-rectangle/) | Hard |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -905,6 +908,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -915,6 +919,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -923,4 +928,5 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
