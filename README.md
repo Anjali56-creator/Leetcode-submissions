@@ -614,6 +614,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1861-rotating-the-box/) | Medium |
@@ -681,6 +682,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0169-majority-element](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0229-majority-element-ii/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1833-maximum-ice-cream-bars](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2126-destroying-asteroids/) | Medium |
@@ -752,6 +754,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1833-maximum-ice-cream-bars](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2126-destroying-asteroids/) | Medium |
@@ -791,6 +794,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
