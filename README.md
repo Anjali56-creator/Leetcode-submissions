@@ -606,6 +606,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0169-majority-element](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0189-rotate-array/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0229-majority-element-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -659,6 +660,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -686,6 +688,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0018-4sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0169-majority-element](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0169-majority-element/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0229-majority-element-ii/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -902,6 +905,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1046-last-stone-weight](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1046-last-stone-weight/) | Easy |
 ## Monotonic Queue
@@ -943,4 +947,8 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0450-delete-node-in-a-bst](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
