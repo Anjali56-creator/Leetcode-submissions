@@ -854,6 +854,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0085-maximal-rectangle](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0155-min-stack](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -900,6 +901,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Heap (Priority Queue)
