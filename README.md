@@ -587,6 +587,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0713-subarray-product-less-than-k](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -655,6 +656,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [2784-check-if-array-is-good](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2942-find-words-containing-character/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
