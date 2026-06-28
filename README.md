@@ -564,6 +564,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0229-majority-element-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0229-majority-element-ii/) | Medium |
 | [0290-word-pattern](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0290-word-pattern/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2540-minimum-common-value](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2615-sum-of-distances/) | Medium |
@@ -614,6 +615,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0485-max-consecutive-ones](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1046-last-stone-weight](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1046-last-stone-weight/) | Easy |
@@ -796,6 +798,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2574-left-and-right-sum-differences/) | Easy |
