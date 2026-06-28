@@ -521,6 +521,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0020-valid-parentheses/) | Easy |
+| [0076-minimum-window-substring](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0290-word-pattern](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0344-reverse-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -555,6 +556,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0013-roman-to-integer](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0013-roman-to-integer/) | Easy |
 | [0037-sudoku-solver](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0037-sudoku-solver/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -578,6 +580,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0713-subarray-product-less-than-k/) | Medium |
