@@ -520,6 +520,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0008-string-to-integer-atoi](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0076-minimum-window-substring/) | Hard |
