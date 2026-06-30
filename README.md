@@ -522,6 +522,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0005-longest-palindromic-substring](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -598,6 +599,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0001-two-sum/) | Easy |
+| [0014-longest-common-prefix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0031-next-permutation/) | Medium |
@@ -920,6 +922,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0014-longest-common-prefix/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
