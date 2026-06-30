@@ -529,6 +529,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0290-word-pattern](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0344-reverse-string/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0686-repeated-string-match](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0686-repeated-string-match/) | Medium |
 | [0796-rotate-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -872,6 +873,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0686-repeated-string-match](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0686-repeated-string-match/) | Medium |
 | [0796-rotate-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0796-rotate-string/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
