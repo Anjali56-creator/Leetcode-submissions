@@ -652,6 +652,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2050-parallel-courses-iii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2073-time-needed-to-buy-tickets](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -777,6 +778,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0396-rotate-function](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0788-rotated-digits/) | Medium |
+| [2050-parallel-courses-iii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3660-jump-game-ix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3660-jump-game-ix/) | Medium |
@@ -829,6 +831,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0547-number-of-provinces/) | Medium |
+| [2050-parallel-courses-iii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2050-parallel-courses-iii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1008,4 +1011,5 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0207-course-schedule/) | Medium |
+| [2050-parallel-courses-iii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2050-parallel-courses-iii/) | Hard |
 <!---LeetCode Topics End-->
