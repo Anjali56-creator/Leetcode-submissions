@@ -807,6 +807,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0098-validate-binary-search-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0200-number-of-islands](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0207-course-schedule/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0547-number-of-provinces](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0547-number-of-provinces/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -814,6 +815,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0547-number-of-provinces/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Union-Find
@@ -825,6 +827,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0547-number-of-provinces/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -1001,4 +1004,8 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0901-online-stock-span/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
