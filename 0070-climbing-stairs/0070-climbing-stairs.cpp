@@ -11,7 +11,10 @@ int count(int i, int n, vector<int>&dp)
     return dp[i]=count(i+1,n,dp)+count(i+2,n,dp);
 }
     int climbStairs(int n) {
+        // bottom up
         vector<int>dp(n+2,-1);
+        dp[n]=1;
+        dp[n+1]=0;
         return count(0,n,dp);
     }
 };
