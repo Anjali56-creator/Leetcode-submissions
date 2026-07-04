@@ -741,6 +741,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0048-rotate-image](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0062-unique-paths/) | Medium |
+| [0070-climbing-stairs](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0189-rotate-array/) | Medium |
 | [0396-rotate-function](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0396-rotate-function/) | Medium |
 | [0441-arranging-coins](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0441-arranging-coins/) | Easy |
@@ -777,6 +778,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0005-longest-palindromic-substring](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0062-unique-paths/) | Medium |
+| [0070-climbing-stairs](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0085-maximal-rectangle](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0118-pascals-triangle](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -1033,5 +1035,6 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
