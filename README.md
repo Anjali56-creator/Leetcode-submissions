@@ -687,6 +687,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [3668-restore-finishing-order](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -853,6 +854,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0207-course-schedule](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0547-number-of-provinces/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2050-parallel-courses-iii/) | Hard |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -914,6 +916,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0200-number-of-islands](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0200-number-of-islands/) | Medium |
 | [1861-rotating-the-box](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1861-rotating-the-box/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
