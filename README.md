@@ -629,6 +629,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0198-house-robber](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0213-house-robber-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0229-majority-element-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -785,6 +786,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0118-pascals-triangle](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0213-house-robber-ii/) | Medium |
 | [0396-rotate-function](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0396-rotate-function/) | Medium |
 | [0509-fibonacci-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
