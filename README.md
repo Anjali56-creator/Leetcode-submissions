@@ -680,6 +680,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3285-find-indices-of-stable-mountains](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
