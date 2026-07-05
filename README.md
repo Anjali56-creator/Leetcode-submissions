@@ -542,6 +542,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -586,6 +587,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3668-restore-finishing-order](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3668-restore-finishing-order/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
