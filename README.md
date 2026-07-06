@@ -838,6 +838,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0207-course-schedule/) | Medium |
@@ -997,6 +998,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0102-binary-tree-level-order-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -1013,6 +1015,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0102-binary-tree-level-order-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
