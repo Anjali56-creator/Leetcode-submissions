@@ -608,6 +608,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0014-longest-common-prefix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0018-4sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0037-sudoku-solver](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0037-sudoku-solver/) | Hard |
@@ -707,6 +708,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0015-3sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0141-linked-list-cycle/) | Easy |
