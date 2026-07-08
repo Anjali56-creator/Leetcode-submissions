@@ -793,6 +793,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0085-maximal-rectangle](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0118-pascals-triangle](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0213-house-robber-ii/) | Medium |
 | [0396-rotate-function](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0396-rotate-function/) | Medium |
@@ -832,6 +833,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -1015,6 +1017,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -1037,6 +1040,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0199-binary-tree-right-side-view/) | Medium |
