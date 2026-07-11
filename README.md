@@ -845,6 +845,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0200-number-of-islands](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0207-course-schedule/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0547-number-of-provinces/) | Medium |
@@ -1036,6 +1037,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0145-binary-tree-postorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -1062,6 +1064,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0145-binary-tree-postorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -1074,6 +1077,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0098-validate-binary-search-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
