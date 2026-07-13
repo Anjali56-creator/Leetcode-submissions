@@ -759,6 +759,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0062-unique-paths](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0189-rotate-array/) | Medium |
+| [0231-power-of-two](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0231-power-of-two/) | Easy |
 | [0396-rotate-function](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0396-rotate-function/) | Medium |
 | [0441-arranging-coins](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0441-arranging-coins/) | Easy |
 | [0509-fibonacci-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
@@ -815,6 +816,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0029-divide-two-integers/) | Medium |
+| [0231-power-of-two](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0231-power-of-two/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
@@ -925,6 +927,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
 ## String Matching
