@@ -541,6 +541,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [2942-find-words-containing-character](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3280-convert-date-to-binary](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -769,6 +770,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [2652-sum-multiples](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2652-sum-multiples/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3280-convert-date-to-binary](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3516-find-closest-person](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3516-find-closest-person/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
