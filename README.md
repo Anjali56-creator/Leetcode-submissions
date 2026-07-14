@@ -1014,12 +1014,14 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0155-min-stack](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0901-online-stock-span/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1046-last-stone-weight](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1046-last-stone-weight/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
@@ -1050,6 +1052,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0450-delete-node-in-a-bst](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Binary Tree
@@ -1077,6 +1080,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0450-delete-node-in-a-bst](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Binary Search Tree
@@ -1088,6 +1092,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Quickselect
@@ -1097,6 +1102,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0901-online-stock-span/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
