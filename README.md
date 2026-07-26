@@ -650,6 +650,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0485-max-consecutive-ones](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0733-flood-fill](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0733-flood-fill/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -746,6 +747,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0229-majority-element-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0389-find-the-difference/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -774,6 +776,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0396-rotate-function](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0396-rotate-function/) | Medium |
 | [0441-arranging-coins](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0441-arranging-coins/) | Easy |
 | [0509-fibonacci-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0788-rotated-digits/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
