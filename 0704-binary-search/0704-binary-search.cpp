@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int search(vector<int>& nums, int target) {
+    int search(vector<int>& arr, int target) {
         int n=arr.size();
         int start=0,end=n-1,mid;
         while(start<=end){
