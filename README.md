@@ -658,6 +658,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0713-subarray-product-less-than-k](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0733-flood-fill](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0733-flood-fill/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0877-stone-game](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0877-stone-game/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
@@ -788,6 +789,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0509-fibonacci-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0877-stone-game/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2235-add-two-integers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2235-add-two-integers/) | Easy |
@@ -838,6 +840,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0509-fibonacci-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0788-rotated-digits](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0788-rotated-digits/) | Medium |
+| [0877-stone-game](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0877-stone-game/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -1157,4 +1160,5 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
