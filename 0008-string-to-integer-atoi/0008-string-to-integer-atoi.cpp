@@ -1,7 +1,7 @@
 class Solution {
 public:
     int myAtoi(string s) {
-      int i=0;
+      int i=0;//declare
       while(i<s.size() && s[i]==' ')
       i++;
 
