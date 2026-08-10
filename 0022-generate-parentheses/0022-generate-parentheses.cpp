@@ -19,7 +19,7 @@ void parenth(int n,int left,int right,vector<string>&ans,string &temp)
     }
 }
     vector<string> generateParenthesis(int n) {
-        vector<string>ans;
+        vector<string>ans; //vector of string type
         string temp;
         parenth(n,0,0,ans,temp);
         return ans;
