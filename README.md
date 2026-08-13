@@ -810,6 +810,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3516-find-closest-person](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3516-find-closest-person/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -1020,6 +1021,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
