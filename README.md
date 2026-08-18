@@ -600,6 +600,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3668-restore-finishing-order/) | Easy |
 | [3731-find-missing-elements](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3731-find-missing-elements/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -711,6 +712,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3285-find-indices-of-stable-mountains](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3660-jump-game-ix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3660-jump-game-ix/) | Medium |
