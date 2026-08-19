@@ -546,6 +546,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3227-vowels-game-in-a-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -810,6 +811,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [2652-sum-multiples](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2652-sum-multiples/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3227-vowels-game-in-a-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -1181,8 +1183,13 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0877-stone-game/) | Medium |
+| [3227-vowels-game-in-a-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3227-vowels-game-in-a-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
