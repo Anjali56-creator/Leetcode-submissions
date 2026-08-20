@@ -591,6 +591,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0992-subarrays-with-k-different-integers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [2206-divide-array-into-equal-pairs](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2540-minimum-common-value](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -696,6 +697,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [2126-destroying-asteroids](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2206-divide-array-into-equal-pairs](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2540-minimum-common-value/) | Easy |
@@ -874,6 +876,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0389-find-the-difference](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0389-find-the-difference/) | Easy |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [2206-divide-array-into-equal-pairs](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -957,6 +960,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0229-majority-element-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0229-majority-element-ii/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [2206-divide-array-into-equal-pairs](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
