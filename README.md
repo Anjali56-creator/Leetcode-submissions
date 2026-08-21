@@ -538,6 +538,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0796-rotate-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
