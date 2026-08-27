@@ -6,6 +6,8 @@ void parenth(int n,int left,int right,vector<string>&ans,string &temp)
     ans.push_back(temp);
     return;
     }
+
+    
     if(left<n){
         temp.push_back('(');
         parenth(n,left+1,right,ans,temp);
