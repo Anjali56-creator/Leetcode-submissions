@@ -732,6 +732,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [3731-find-missing-elements](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Divide and Conquer
@@ -836,6 +837,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
