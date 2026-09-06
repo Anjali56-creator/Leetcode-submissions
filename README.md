@@ -527,6 +527,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0020-valid-parentheses](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0115-distinct-subsequences](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0242-valid-anagram/) | Easy |
@@ -868,6 +869,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0062-unique-paths](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0085-maximal-rectangle](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0085-maximal-rectangle/) | Hard |
+| [0115-distinct-subsequences](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
