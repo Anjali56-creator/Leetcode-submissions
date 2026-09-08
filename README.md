@@ -839,6 +839,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3870-count-commas-in-range](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Binary Search
