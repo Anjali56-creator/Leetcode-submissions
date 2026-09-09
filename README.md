@@ -594,6 +594,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0992-subarrays-with-k-different-integers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2540-minimum-common-value](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2615-sum-of-distances/) | Medium |
@@ -691,6 +692,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [1861-rotating-the-box](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1861-rotating-the-box/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
@@ -984,6 +986,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0229-majority-element-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0229-majority-element-ii/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3467-transform-array-by-parity/) | Easy |
