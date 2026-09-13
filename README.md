@@ -594,6 +594,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0992-subarrays-with-k-different-integers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
@@ -684,6 +685,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [1046-last-stone-weight](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1046-last-stone-weight/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -994,6 +996,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0229-majority-element-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0229-majority-element-ii/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2833-furthest-point-from-origin/) | Easy |
