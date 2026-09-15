@@ -680,6 +680,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0733-flood-fill](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0733-flood-fill/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0877-stone-game/) | Medium |
+| [0896-monotonic-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0896-monotonic-array/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
