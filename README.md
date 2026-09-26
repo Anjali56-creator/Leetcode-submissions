@@ -847,6 +847,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2235-add-two-integers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2235-add-two-integers/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2652-sum-multiples](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2652-sum-multiples/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
