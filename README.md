@@ -753,6 +753,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [3838-weighted-word-mapping](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3895-count-digit-appearances](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3895-count-digit-appearances/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -867,6 +868,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [3871-count-commas-in-range-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3895-count-digit-appearances](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3895-count-digit-appearances/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
