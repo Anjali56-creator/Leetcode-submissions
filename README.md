@@ -539,6 +539,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0796-rotate-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -1092,6 +1093,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0901-online-stock-span](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1259,6 +1261,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
