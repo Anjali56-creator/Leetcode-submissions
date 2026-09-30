@@ -631,6 +631,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0992-subarrays-with-k-different-integers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1652-defuse-the-bomb](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1652-defuse-the-bomb/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -700,6 +701,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1652-defuse-the-bomb](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1732-find-the-highest-altitude](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
