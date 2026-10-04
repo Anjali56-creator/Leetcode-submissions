@@ -2,11 +2,12 @@ class Solution {
 public:
     int findPermutationDifference(string s, string t) {
         int sum=0;
-        for(int i=0;i<=s.size()-1;i++){
-            for(int j=0;j<=t.size()-1;j++){
-                if(s[i]==t[j])
-                sum+=abs(i-j);
-            }
+        unordered_map<char,int>mp;
+        for(int i=0;i<s.size();i++){
+            mp[s[i]]=i;
+        }
+        for(int i=0;i<t.size();i++){
+            sum+=abs(mp[t[i]]-i);
         }
         return sum;
     }
