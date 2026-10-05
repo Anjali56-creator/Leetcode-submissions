@@ -1288,5 +1288,10 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0051-n-queens/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
