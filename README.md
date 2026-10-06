@@ -1283,6 +1283,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
