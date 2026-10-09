@@ -543,6 +543,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2418-sort-the-people](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2418-sort-the-people/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2942-find-words-containing-character/) | Easy |
@@ -608,6 +609,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2418-sort-the-people](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2418-sort-the-people/) | Easy |
 | [2540-minimum-common-value](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -738,6 +740,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
+| [2418-sort-the-people](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2418-sort-the-people/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -838,6 +841,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [2126-destroying-asteroids](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2418-sort-the-people](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2418-sort-the-people/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
