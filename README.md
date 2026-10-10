@@ -540,6 +540,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -606,6 +607,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [1331-rank-transform-of-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -719,6 +721,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [1636-sort-array-by-increasing-frequency](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -957,6 +960,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0287-find-the-duplicate-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0389-find-the-difference](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0389-find-the-difference/) | Easy |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -1052,6 +1056,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0992-subarrays-with-k-different-integers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
