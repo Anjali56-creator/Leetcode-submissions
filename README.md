@@ -763,6 +763,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [2965-find-missing-and-repeated-values](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
