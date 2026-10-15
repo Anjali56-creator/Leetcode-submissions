@@ -703,6 +703,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0628-maximum-product-of-three-numbers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0704-binary-search](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0733-flood-fill/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0877-stone-game/) | Medium |
@@ -1049,6 +1050,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0209-minimum-size-subarray-sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0724-find-pivot-index](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0724-find-pivot-index/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0995-minimum-number-of-k-consecutive-bit-flips/) | Hard |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
