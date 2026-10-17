@@ -897,6 +897,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [2652-sum-multiples](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2652-sum-multiples/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3099-harshad-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3099-harshad-number/) | Easy |
 | [3227-vowels-game-in-a-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3227-vowels-game-in-a-string/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
