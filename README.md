@@ -779,6 +779,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [3467-transform-array-by-parity](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -907,6 +908,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [3280-convert-date-to-binary](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3516-find-closest-person/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
