@@ -7,10 +7,9 @@ public:
         }
         if(sum%k==0)
         return 0;
-        else if(nums.size()==1)
-        return nums[0]-k;
+       
         else
-        return k-1;
+        return sum%k;
         
     }
 };
