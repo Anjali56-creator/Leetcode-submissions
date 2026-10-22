@@ -559,6 +559,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [3612-process-string-with-special-operations-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3894-traffic-signal-color](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3894-traffic-signal-color/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -576,6 +577,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3894-traffic-signal-color](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3894-traffic-signal-color/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -921,6 +923,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [3871-count-commas-in-range-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3894-traffic-signal-color](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3894-traffic-signal-color/) | Easy |
 | [3895-count-digit-appearances](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3895-count-digit-appearances/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
