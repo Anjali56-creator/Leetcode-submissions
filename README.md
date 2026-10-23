@@ -579,6 +579,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [3838-weighted-word-mapping](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3894-traffic-signal-color/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+| [3959-check-good-integer](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3959-check-good-integer/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -925,6 +926,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [3876-construct-uniform-parity-array-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3894-traffic-signal-color](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3894-traffic-signal-color/) | Easy |
 | [3895-count-digit-appearances](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3895-count-digit-appearances/) | Medium |
+| [3959-check-good-integer](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3959-check-good-integer/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
