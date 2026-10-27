@@ -778,6 +778,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3285-find-indices-of-stable-mountains](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -838,6 +839,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [1861-rotating-the-box](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1861-rotating-the-box/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2540-minimum-common-value/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -868,6 +870,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [2463-minimum-total-distance-traveled](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
