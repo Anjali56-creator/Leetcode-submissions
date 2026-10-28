@@ -3,6 +3,7 @@ public:
 void parenth(int n,int left,int right,vector<string>&ans,string &temp)
 {
     if(left+right==2*n){
+        
     ans.push_back(temp);
     return;
     }
