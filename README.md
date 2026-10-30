@@ -560,6 +560,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3894-traffic-signal-color](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3894-traffic-signal-color/) | Easy |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1063,6 +1064,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [1192-critical-connections-in-a-network](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1234,6 +1236,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [1046-last-stone-weight](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1379,4 +1382,8 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1952-three-divisors/) | Easy |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 <!---LeetCode Topics End-->
