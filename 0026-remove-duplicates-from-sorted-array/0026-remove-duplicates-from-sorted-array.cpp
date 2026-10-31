@@ -1,6 +1,7 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
+        
         vector<int>copy;
         copy.push_back(nums[0]);
         bool flag=0;
