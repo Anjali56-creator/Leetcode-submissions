@@ -782,6 +782,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
