@@ -914,6 +914,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0788-rotated-digits](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0877-stone-game/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1952-three-divisors](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
