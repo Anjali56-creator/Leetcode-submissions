@@ -566,6 +566,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0054-spiral-matrix/) | Medium |
+| [0258-add-digits](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0258-add-digits/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -903,6 +904,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0070-climbing-stairs](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0268-missing-number/) | Easy |
 | [0396-rotate-function](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0396-rotate-function/) | Medium |
 | [0441-arranging-coins](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0441-arranging-coins/) | Easy |
@@ -1193,6 +1195,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0258-add-digits/) | Easy |
 | [1952-three-divisors](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
