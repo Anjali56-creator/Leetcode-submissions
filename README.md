@@ -680,6 +680,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0056-merge-intervals](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0078-subsets](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -1003,6 +1004,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0029-divide-two-integers/) | Medium |
+| [0078-subsets](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0268-missing-number/) | Easy |
@@ -1201,6 +1203,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0022-generate-parentheses](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0051-n-queens/) | Hard |
+| [0078-subsets](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0078-subsets/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
