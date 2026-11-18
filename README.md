@@ -918,6 +918,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0633-sum-of-square-numbers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0788-rotated-digits](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0877-stone-game/) | Medium |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
@@ -1142,6 +1143,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0234-palindrome-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Recursion
