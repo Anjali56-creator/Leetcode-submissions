@@ -736,6 +736,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [1394-find-lucky-integer-in-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1652-defuse-the-bomb/) | Easy |
@@ -977,6 +978,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0713-subarray-product-less-than-k](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2540-minimum-common-value/) | Easy |
