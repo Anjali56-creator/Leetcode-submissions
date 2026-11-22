@@ -545,6 +545,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1957-delete-characters-to-make-fancy-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2418-sort-the-people](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2418-sort-the-people/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2833-furthest-point-from-origin/) | Easy |
