@@ -780,6 +780,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2615-sum-of-distances/) | Medium |
+| [2643-row-with-maximum-ones](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -1185,6 +1186,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1861-rotating-the-box](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1861-rotating-the-box/) | Medium |
+| [2643-row-with-maximum-ones](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Stack
