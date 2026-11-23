@@ -670,6 +670,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0015-3sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0035-search-insert-position/) | Easy |
@@ -841,6 +842,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0018-4sum](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0061-rotate-list/) | Medium |
