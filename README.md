@@ -723,6 +723,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0724-find-pivot-index](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0733-flood-fill/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0877-stone-game/) | Medium |
 | [0896-monotonic-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0896-monotonic-array/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -983,6 +984,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0633-sum-of-square-numbers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1539-kth-missing-positive-number/) | Easy |
