@@ -673,6 +673,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0027-remove-element](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0035-search-insert-position/) | Easy |
 | [0037-sudoku-solver](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0041-first-missing-positive/) | Hard |
@@ -970,6 +971,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
