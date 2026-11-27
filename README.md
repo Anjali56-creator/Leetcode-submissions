@@ -936,6 +936,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [1344-angle-between-hands-of-a-clock](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [1922-count-good-numbers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1922-count-good-numbers/) | Medium |
 | [1952-three-divisors](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
@@ -1176,6 +1177,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [0234-palindrome-linked-list](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/0509-fibonacci-number/) | Easy |
+| [1922-count-good-numbers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/1922-count-good-numbers/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## String Matching
