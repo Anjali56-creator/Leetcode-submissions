@@ -828,6 +828,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [3903-smallest-stable-index-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1027,6 +1028,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3660-jump-game-ix](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3660-jump-game-ix/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1060,6 +1062,7 @@ Feel free to reference solutions, but challenge yourself to solve them independe
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Anjali56-creator/Leetcode-submissions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
